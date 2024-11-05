@@ -1,0 +1,9 @@
+semester,courseCode,courseTitle,credits,faculty
+1,CS101,Introduction to Programming,1-2-4-0-2,Dr. Smith
+1,MAT102,Linear Algebra,2-1-0-0-3,Dr. Johnson
+1,PHY101,Physics I,2-1-2-0-4,Dr. Williams
+1,ENG101,Technical English,2-0-0-0-2,Dr. Brown
+1,CHE101,Chemistry,2-1-2-0-4,Dr. Davis
+1,MEP101,Engineering Drawing,0-0-3-0-2,Prof. Wilson
+1,HSS101,Professional Ethics,2-0-0-0-2,Dr. Taylor
+1,CSL101,Programming Lab,0-0-2-0-1,Dr. Smith
